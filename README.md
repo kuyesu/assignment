@@ -2,3 +2,12 @@
 ---
 ### This repository contain the the Software Requirement Specification document for a Mining volunteered geographic information (Crowd-Sourced data pool) for predictive Target Marketing
 
+
+## The project is a collaborative effort between the following groups:
+
+
+### Student:
+<p>Kuyeso Rogers : <span>Sotfware Engineering Studemt</span></p>
+
+### Mentor:
+<p>Dr. Ntwari <span>: Course Director</span></p>
