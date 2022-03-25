@@ -11,3 +11,8 @@
 
 ### Mentor:
 <p>Dr. Ntwari <span>: Course Director</span></p>
+
+### Important links
+
+site [https://kuyesu.github.io/assignment/]
+dcument [https://kuyesu.github.io/assignment/srs.html]
