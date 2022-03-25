@@ -16,8 +16,8 @@ Lecturer: Mbarara University of science and Technology
 
 ### Important links
 
-- [https://kuyesu.github.io/assignment/](Site)
-- [https://kuyesu.github.io/assignment/srs.html](Software Requirement Documentation)
+- [Site](https://kuyesu.github.io/assignment/)
+- [Software Requirement Documentation](https://kuyesu.github.io/assignment/srs.html)
 
 
 ### Project description
