@@ -1,6 +1,6 @@
 # Technical documentation in software Engineering
 ---
-### This repository contain the the Software Requirement Specification document for a Mining volunteered geographic information (Crowd-Sourced data pool) for predictive Target Marketing
+This repository contain the the Software Requirement Specification document for a Mining volunteered geographic information (Crowd-Sourced data pool) for predictive Target Marketing
 
 
 ## The project is a collaborative effort between the following groups:
@@ -14,5 +14,5 @@
 
 ### Important links
 
-site [https://kuyesu.github.io/assignment/]
-dcument [https://kuyesu.github.io/assignment/srs.html]
+- site [https://kuyesu.github.io/assignment/]
+- dcument [https://kuyesu.github.io/assignment/srs.html]
